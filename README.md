@@ -1,5 +1,14 @@
 <p align="center"><img src="https://i.ibb.co/jgwD0Fh/laravel-vue-cli.png" width="400"></p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/laravel-v6.10.0-orange">
+<img src="https://img.shields.io/badge/vue--cli-v4.1.0-brightgreen">
+<img src="https://img.shields.io/badge/babel--eslint-v10.0.3-blue">
+<img src="https://img.shields.io/badge/eslint-v5.16.0-green">
+</p>
+
+<hr>
+
 ## Laravel + Vue-CLI Boilerplate
 
 This Laravel setup gives you the additional benefits of a Vue-CLI setup. As you may know, Vue-CLI and similar environment 
